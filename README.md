@@ -1,4 +1,4 @@
-# Programming_courses_completed
+# Programming-courses-completed
 List of all programming courses I've completed
 
 
