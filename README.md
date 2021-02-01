@@ -1,5 +1,5 @@
 # Programming-courses-completed
-List of all programming courses I've completed
+### A list of all programming courses I've completed
 
 
 1. edX Verified Certificate for CS50's Introduction to Computer Science by by Harvard University
