@@ -1,5 +1,5 @@
 # Programming-courses-completed
-### A list of all programming and testing related courses I've completed
+### A list of all programming and testing related courses I've completed:
 
 
 1. Software Testing Masterclass (2021) - From Novice to Expert (February 2021)
