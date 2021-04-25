@@ -1,4 +1,4 @@
-# Programming-courses-completed
+# Programming-and-Testing-courses-completed
 ### A list of all programming and testing related courses I've completed:
 
 1. Become a Software Tester (April 2021) - LinkedIn
